@@ -1,12 +1,9 @@
 [
     {
-        "name": "Example App 1",
-        "image": "https://example.com/icon1.png",
-        "htmlurl": "https://example.com/app1.html"
-    },
-    {
-        "name": "Example App 2",
-        "image": "https://example.com/icon2.png",
-        "htmlurl": "https://example.com/app2.html"
+      "name": "Example App",
+      "appId": "exampleApp",
+      "image": "https://example.com/app-icon.png",
+      "iframeUrl": "https://example.com/app.html"
     }
-]
+  ]
+  
