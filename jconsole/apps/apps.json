@@ -1,0 +1,29 @@
+{
+    "apps": [
+      {
+        "name": "App 1",
+        "description": "This is a description for App 1.",
+        "image": "https://via.placeholder.com/150",
+        "url": "https://example.com/app1"
+      },
+      {
+        "name": "App 2",
+        "description": "This is a description for App 2.",
+        "image": "https://via.placeholder.com/150",
+        "url": "https://example.com/app2"
+      },
+      {
+        "name": "App 3",
+        "description": "This is a description for App 3.",
+        "image": "https://via.placeholder.com/150",
+        "url": "https://example.com/app3"
+      },
+      {
+        "name": "App 4",
+        "description": "This is a description for App 4.",
+        "image": "https://via.placeholder.com/150",
+        "url": "https://example.com/app4"
+      }
+    ]
+  }
+  
